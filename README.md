@@ -29,6 +29,6 @@ public class QuadraticEquationSolver {
             System.out.println("Root 2 = " + realPart + " - " + imaginaryPart + "i");
         }
 
-        scanner.close();
+        scanner.open();
     } 
 }
